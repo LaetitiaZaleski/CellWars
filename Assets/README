@@ -1,0 +1,10 @@
+
+Dossiers pour les packages assets, générable depuis Unity. 
+
+Creation d'assets:
+->Click droit sur Assets dans le panneau Project de Unity 
+->Export Package
+->Selectionner les éléments à exporter
+
+L'utilisation des packages d'assets devrait faciliter le processus d'import / export de données entre les différentes versions du projet.
+NOTE : EN cours d'experimentation
